@@ -1,0 +1,2 @@
+# Netlify / Cloudflare Pages redirects. Ignore on Apache (see .htaccess).
+/saas-development.html  /saas-technology-software-development.html  301!
